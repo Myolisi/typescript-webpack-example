@@ -1,0 +1,17 @@
+# VSCODE
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Webpack
+.DS_Store
+node_modules
+dist
+
+# yarn npm
+logs
+*.log
+npm-debug.log*
+yarn.lock
