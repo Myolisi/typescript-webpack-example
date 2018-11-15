@@ -7,8 +7,8 @@
 
 # Webpack
 .DS_Store
-node_modules
-dist
+node_modules/
+dist/
 
 # yarn npm
 logs
