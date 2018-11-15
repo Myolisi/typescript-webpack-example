@@ -1,0 +1,18 @@
+{
+  "name": "typescriptJavascript_webpack_example",
+  "version": "1.0.0",
+  "description": "A simple webpack project with typescript",
+  "scripts": {
+    "build": "webpack-dev-server --hot --inline"
+  },
+  "repository": "git@github.com:Myolisi/typescriptJavascript_webpack_example.git",
+  "author": "Myolisi Ngubentombi <myolisi@ngubentombi.co.za>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^5.3.0",
+    "typescript": "^3.1.6",
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  }
+}

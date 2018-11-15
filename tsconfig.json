@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "outDir": "./src/",
+        "module": "es6",
+        "target": "es5",
+        "allowJs": true,
+        "sourceMap": true
+    }
+}
+
+// * schema can be found at --> http: //json.schemastore.org/tsconfig
+// * allowJs :  allow javaScript files to be compiled
+// * module : used es6 modules for importing and exporting --stuff--
+// ! sourceMap : map each js line to corresponding ts line
+// * target : transpile to es5 from module used (es6)
